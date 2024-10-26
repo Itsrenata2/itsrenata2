@@ -21,7 +21,7 @@
 ### :woman_technologist: About Me :
 I'm a FrontEnd Developer from Brazil.  
 - :books: I'm currently a college student, studying Computer Science at UNIJORGE, Salvador.
-- :memo: Studying Javascript for the time being, as well as making small projects with HTML, CSS and later implementing Javascript.
+- :memo: Studying React for the time being, as well as making projects to practice and learn more!
 - :mailbox_closed: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-renatasilva22-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renata-silva22/)
 
 ---
